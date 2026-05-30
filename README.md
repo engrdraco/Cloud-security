@@ -1,6 +1,0 @@
-# cloud-security-with-AWS
-Through the AWS Cloud Support Associate and Solutions architect associate Professional Certificate program on Coursera, I have gained practical experience working with a wide range of AWS services through intensive hands-on lab activities designed to simulate real-world cloud environments documented in this repository. These labs activities documented in this repository required not only theoretical understanding, but also the ability to troubleshoot, configure, deploy, and manage cloud infrastructure under realistic scenarios. Throughout the program, I worked extensively with core AWS services including EC2, S3, IAM, VPC, CloudWatch, Route 53, Lambda, and RDS, strengthening my understanding of cloud architecture, networking, security, monitoring, and automation.
-
-The lab sessions were rigorous and detail-oriented, often involving multi-step configurations, incident resolution, access management, system optimization, and infrastructure deployment tasks that demanded precision, analytical thinking, and adaptability. These experiences improved my problem-solving skills and reinforced best practices in cloud operations and technical support.
-
-As a result, I have developed a solid foundation in AWS cloud technologies and the confidence to contribute effectively in cloud support, technical support and system administration
