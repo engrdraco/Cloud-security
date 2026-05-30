@@ -34,17 +34,7 @@ While each CSP has its own nomenclature, the underlying architecture remains con
 * **Concept:** Centralizing log aggregation, establishing continuous compliance baselines, and triaging real-time security alerts.
 * **Services Handled:** AWS CloudWatch/CloudTrail, GCP Security Command Center & Cloud Logging, Azure Monitor & Microsoft Defender for Cloud.
 
----
-
-##  Repository Structure
-
-CLOUD SECURITY
-├── AWS-Labs/          # IAM hardening, VPC design, and EC2 security baselines
-├── GCP-Labs/          # Terraform VPC automation, IAM triage, and Cloud Storage security
-└── Azure-Labs/        # VNet configuration, NSG rules, and AZ-500 specific implementations
-
 ##  Connect With Me
-
 I actively practice a **"building in public"** philosophy to share my insights, document my laboratory experiments, and engage with the global cybersecurity community.
 
 * **Linktree** [https://t.co/44szSPE2ci]
