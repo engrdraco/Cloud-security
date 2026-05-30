@@ -1,4 +1,4 @@
-# Multi-Cloud Security & Engineering Labs: AWS, GCP, & Azure
+# Multi-Cloud Security Labs: AWS, GCP, & Azure
 
 Welcome to my multi-cloud security and infrastructure repository. This project serves as a comprehensive, hands-on portfolio documenting my journey across the three major Cloud Service Providers (CSPs): **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, and **Microsoft Azure**. 
 
@@ -14,7 +14,7 @@ This multi-cloud exposure has built a foundational mindset: **security is not a 
 
 ---
 
-## 🛠️ Cross-Cloud Core Competencies
+## Cross-Cloud Core Competencies
 
 While each CSP has its own nomenclature, the underlying architecture remains consistent. I have developed strong, cross-cloud proficiency in the following core pillars:
 
